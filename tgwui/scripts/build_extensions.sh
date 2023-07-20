@@ -23,3 +23,7 @@ for folder in "$directory"/*; do
     fi
 done
 
+
+
+
+
